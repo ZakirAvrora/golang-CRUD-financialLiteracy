@@ -1,0 +1,52 @@
+{
+ "transactions": [
+  {
+   "id": "1",
+   "price": "2500",
+   "type": "purchase",
+   "comment": "Meal was purchased",
+   "category": "Meal",
+   "date": {
+    "year": "2020",
+    "month": "Jan",
+    "day": "15"
+   }
+  },
+  {
+   "id": "2",
+   "price": "5000",
+   "type": "income",
+   "comment": "Own product was sold",
+   "category": "Business",
+   "date": {
+    "year": "2020",
+    "month": "Jan",
+    "day": "15"
+   }
+  },
+  {
+   "id": "3",
+   "price": "2000",
+   "type": "income",
+   "comment": "Mothly interest rate from the deposit ",
+   "category": "Deposit",
+   "date": {
+    "year": "2020",
+    "month": "Jan",
+    "day": "15"
+   }
+  },
+  {
+   "id": "4",
+   "price": "1200",
+   "type": "purchase",
+   "comment": "Price for Taxi",
+   "category": "Transport",
+   "date": {
+    "year": "2020",
+    "month": "Jan",
+    "day": "15"
+   }
+  }
+ ]
+}
